@@ -1,0 +1,10 @@
+# Ignorer le fichier de configuration de la base de données
+/config/config.php
+
+# Ignorer les fichiers de session PHP
+*.log
+*.bak
+*.swp
+
+# Ignorer les fichiers de cache ou temporaire
+*.tmp
